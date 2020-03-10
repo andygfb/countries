@@ -32,7 +32,7 @@
         "psr/simple-cache": "^1.0",
         "nette/caching": "^2.5",
         "colinodell/json5": "^1.0",
-        "pragmarx/ia-collection": "^5.8.7"
+        "pragmarx/ia-collection": "^5.8"
     },
 
     "require-dev": {
